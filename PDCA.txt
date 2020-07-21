@@ -1,0 +1,25 @@
+createMultiplyTable:
+    P: 1mins
+    D: 1mins
+    C: It's simple and have little logic code
+    A: 
+isNumbersValid:
+    P: 1mins
+    D: 1mins
+    C: It's simple and have little logic code
+    A: 
+printAllLines:
+    P: 2mins
+    D: 2mins
+    C: It's simple and have little logic code
+    A: 
+printOneLine:
+    P: 5mins
+    D: 10mins
+    C: I confuse the multiplicand and the multiplier
+    A: Need to pratice more
+printAMultiply:
+    P: 1mins
+    D: 1mins
+    C: It's simple and have little logic code
+    A: 
